@@ -54,6 +54,6 @@ Cómo convencer a un cliente de que nuestra solución es viable?
 
 ![Seis sombreros](http://4.bp.blogspot.com/--qBAo2RznOo/UUtTMjnXInI/AAAAAAAAAO4/S2zmbvpV3hg/s1600/seisss.jpg)
 [Resumen seis sombreros](https://www.leadersummaries.com/ver-resumen/seis-sombreros-para-pensar)
-
+[10 ideas simples](http://www.idits.org.ar/files/files/10_ideas_simples.pdf)
 
 
