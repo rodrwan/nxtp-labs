@@ -28,6 +28,32 @@
 # Nxtp Labs Día 2 ![Argentina](http://2.bp.blogspot.com/-6cCxta2o1dc/VbKLS49xgWI/AAAAAAAAADc/uG4Abbzi5lk/s1600/ar.png)-![Chile](http://4.bp.blogspot.com/-VLsun9MEN6o/VbKLS3X-1SI/AAAAAAAAADg/KOiRkHYKiR0/s1600/cl.png)
 ## Workshop 2
 
-Launch pad!
+Google Launchpad!
+
+Speaker: Martin Vivas (Google)
+
+Test en Google cloud (?)(awesome!)
+
+### Modelos
+
+- Design thinking
+- Lean Startup
+- Customer Development
+- Business model canvas
+
+(Lean startup) Qué, por qué y para quién? (haciendo)
+Design thinking: Modelo de diseño enfocado en el negocio.
+Pensar en pago mensual anual para la suscripción de customers.
+Diferenciar usuarios de clientes.
+Cómo convencer a un cliente de que nuestra solución es viable?
+
+** Design Sprint Methods
+[Design Sprint](https://developers.google.com/design-sprint/downloads/DesignSprintMethods.pdf)
+[Empathy Map]()
+
+
+![Seis sombreros](http://4.bp.blogspot.com/--qBAo2RznOo/UUtTMjnXInI/AAAAAAAAAO4/S2zmbvpV3hg/s1600/seisss.jpg)
+[Resumen seis sombreros](https://www.leadersummaries.com/ver-resumen/seis-sombreros-para-pensar)
+
 
 
