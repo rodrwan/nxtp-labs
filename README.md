@@ -56,4 +56,54 @@ Cómo convencer a un cliente de que nuestra solución es viable?
 [Resumen seis sombreros](https://www.leadersummaries.com/ver-resumen/seis-sombreros-para-pensar)
 [10 ideas simples](http://www.idits.org.ar/files/files/10_ideas_simples.pdf)
 
+---
 
+# Nxtp Labs Día 3 ![Argentina](http://2.bp.blogspot.com/-6cCxta2o1dc/VbKLS49xgWI/AAAAAAAAADc/uG4Abbzi5lk/s1600/ar.png)-![Chile](http://4.bp.blogspot.com/-VLsun9MEN6o/VbKLS3X-1SI/AAAAAAAAADg/KOiRkHYKiR0/s1600/cl.png)
+
+## Workshop 3 (Preparando el pitch)
+- cuánto dinero estamos buscando?
+- cuánto gastamos en operaciones?
+- cuánto sale ser Finciero?
+- saber que queremos pedirle a los mentores?
+- qué venimos a buscar?
+- vender la propuesta
+- cómo y qué hicimos para obtener 2000 usuario?
+- qué queremos hacer con el dinero?
+- en qué consisten nuestros acuerdos comerciales?
+
+### Propuesta 1 de como hacer el pitch
+Cuál es el problema?
+Existe alguien más tratando de solucionar el problema?
+Cuál es nuestra propuesta de solución?
+Por qué es mejor?
+Qué lo asegura? (nivel de arrastre de usuarios)(tracción)
+Cómo nos mantenemos vivos? (negocio)
+Cuáles son los pasos futuros?
+- Mobile
+- API
+- Finciero 4 Business
+
+### Escribir one pager con características esenciales de Finciro.
+- Qué es?
+- Para qué es?
+- Por qué se crea?
+- Cómo funciona?
+- Cómo generamos ganancias?
+- Modelo de negocios core?
+> - Como generamos ingresos?
+- Modelos de negocios alternativos?
+- Competencia?
+- Team?
+- Qué problemas nos hemos encontrado?
+- Mostrar seguridad del sitio, certificados y compañias que avalan esto.
+- Mostrar de donde ya hemos obtenido financiamiento.
+- tener en consideración la tracción.
+- adquisición de usuarios.
+- Terminar explicando que vamos hacer con el dinero y cuanto necesitamos para cumplir esas metas.
+
+Contar la historia de Finciero, aprovechamos que ya estamos más maduro
+
+
+- Dejar solo a los founders.
+- Sacar los riesgos.
+- Analizar la logica de extración de datos.
